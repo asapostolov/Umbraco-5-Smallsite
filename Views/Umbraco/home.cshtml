@@ -1,0 +1,28 @@
+@inherits RenderViewPage
+@using System.Web.Mvc.Html;
+@using Umbraco.Cms.Web;
+@{
+	Layout = "master.cshtml";
+}
+
+@section Head
+{
+  <title>@DynamicModel.PageTitle</title>
+
+@if(!String.IsNullOrEmpty(DynamicModel.MetaDescription))
+{
+<META NAME="description" CONTENT="@DynamicModel.MetaDescription" /> 
+}
+
+}
+
+@section WebsiteName
+{
+    @Umbraco.RenderMacro("headerText")    
+}
+
+  
+
+<section>
+  Hello world!
+</section>

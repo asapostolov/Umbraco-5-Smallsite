@@ -1,0 +1,10 @@
+@inherits PartialViewMacroPage
+@using Umbraco.Cms.Web
+@using Umbraco.Cms.Web.Macros
+@using Umbraco.Framework
+
+@{
+    var masterInfo =  Hive.Content.Where(x => x.ContentType.Alias == "Website").First().AsDynamic();
+    <h1>@masterInfo.WebsiteName</h1>
+    <p>@masterInfo.WebsiteSlogan</p>
+}
