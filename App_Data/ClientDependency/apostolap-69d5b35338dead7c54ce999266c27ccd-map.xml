@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="9bfaac56764236856855a4b4971bb2ed" file="" compression="" version="30">
+    <files>
+      <file name="/20120131-1257-Umbraco5RTMWebApp/Areas/Umbraco/Scripts/Umbraco.System/Extensions.js" />
+      <file name="/20120131-1257-Umbraco5RTMWebApp/Areas/Umbraco/Scripts/KnockoutJs/knockout-1.2.1.js" />
+    </files>
+  </item>
+</map>

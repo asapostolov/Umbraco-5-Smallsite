@@ -1,0 +1,8 @@
+*resharper.user
+*.suo
+*.sln.cache
+_ReSharper.*/
+*.resharper
+resharper.settings.xml
+/.gitversion.tmp
+/.gitversion.short.tmp
