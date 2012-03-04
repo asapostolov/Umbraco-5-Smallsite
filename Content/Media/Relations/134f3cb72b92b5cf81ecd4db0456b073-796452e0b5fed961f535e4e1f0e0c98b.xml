@@ -1,0 +1,3 @@
+<relation type="ThumbnailRelationType" sourceId="storage://file-uploader/p__file-uploader/v__string/2081e9cecae84a6f8a80b05b927fb035$!Tulips.jpg" destinationId="storage://file-uploader/p__file-uploader/v__string/2081e9cecae84a6f8a80b05b927fb035$!Tulips_100.jpg" ordinal="0">
+  <metaDatum key="size" value="100" />
+</relation>

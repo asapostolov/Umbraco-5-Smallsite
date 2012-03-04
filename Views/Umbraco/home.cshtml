@@ -2,27 +2,11 @@
 @using System.Web.Mvc.Html;
 @using Umbraco.Cms.Web;
 @{
-	Layout = "master.cshtml";
-}
-
-@section Head
-{
-  <title>@DynamicModel.PageTitle</title>
-
-@if(!String.IsNullOrEmpty(DynamicModel.MetaDescription))
-{
-<META NAME="description" CONTENT="@DynamicModel.MetaDescription" /> 
-}
-
-}
-
-@section WebsiteName
-{
-    @Umbraco.RenderMacro("headerText")    
+	Layout = "Page.cshtml";
 }
 
   
 
 <section>
-  Hello world!
+  @Html.Raw(DynamicModel.HomeContent)
 </section>
