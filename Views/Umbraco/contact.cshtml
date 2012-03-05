@@ -1,6 +1,37 @@
 @inherits RenderViewPage
 @using System.Web.Mvc.Html;
 @using Umbraco.Cms.Web;
+@using Umbraco.Cms.Web.Editors;
 @{
-	Layout = "";
+    Layout = "Page.cshtml";
 }
+
+<section>
+  @using (Html.BeginUmbracoForm("SendContactInfo", "ContactSurface"))
+  {
+
+      var contactForm = new ContactModel();
+	
+
+	@Html.ValidationSummary(prefix: "contactForm")
+
+      <input name="contactForm.FirstName" type="text" id="FirstName" />
+	@*@Html.EditorFor(x => contactForm)
+	@Html.LabelFor(x => contactForm.FirstName)
+	@Html.LabelFor(x => contactForm.FirstName)
+	@Html.EditorFor(x => contactForm.FirstName)
+	@Html.DisplayFor(x => contactForm.LastName)
+	@Html.EditorFor(x => contactForm.LastName)
+	@Html.DisplayFor(x => contactForm.Email)
+	@Html.EditorFor(x => contactForm.Email)
+	@Html.DisplayFor(x => contactForm.Message)
+	@Html.EditorFor(x => contactForm.Message)*@
+
+
+	@*@Html.DisplayFor(x => model.LastName, "", "ContactForm")
+	@Html.DisplayFor(x => model.Email, "", "ContactForm")
+	@Html.DisplayFor(x => model.Message, "", "ContactForm")*@
+
+	<input type="submit"  value="Send" />
+  }
+</section>

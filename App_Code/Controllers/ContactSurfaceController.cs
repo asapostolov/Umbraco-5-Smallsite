@@ -12,7 +12,7 @@ public class ContactSurfaceController:SurfaceController
 {
     [HttpPost]
     public ActionResult SendContactInfo(
-        [Bind(Prefix = "MyTestForm")]
+        [Bind(Prefix = "contactForm")]
             ContactModel model)
     {
         if (!ModelState.IsValid)
@@ -21,7 +21,8 @@ public class ContactSurfaceController:SurfaceController
         }
 
 
-        return new JavaScriptResult() { Script="alert('Your message is sent! We will contact you for more information.')"};
+        //return new JavaScriptResult() { Script="alert('Your message is sent! We will contact you for more information.')"};
         //return new RedirectResult("/");
+        return new JsonResult() { Data = new { Name = "Sucess!"} };
     }
 }
