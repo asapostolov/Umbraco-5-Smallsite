@@ -6,5 +6,4 @@ _ReSharper.*/
 resharper.settings.xml
 /.gitversion.tmp
 /.gitversion.short.tmp
-packages/
-obj/
+bin/

@@ -1,0 +1,22 @@
+@model Smallsite.Custom.ContactModel
+
+<script type="text/javascript" src="../../../Scripts/jQuery/jquery.js"></script>
+<script type="text/javascript" src="../../../Scripts/jQuery/jquery.validate.min.js"></script>
+<script type="text/javascript" src="../../../Scripts/jQuery/jquery.validate.unobtrusive.min.js"></script>
+
+<section>
+  @using (Html.BeginUmbracoForm("SendContactInfo", "ContactSurface"))
+  {
+
+      var contactForm = new Smallsite.Custom.ContactModel();
+	
+
+	
+
+	@Html.EditorFor(x => contactForm)
+	
+    @*@Html.ValidationSummary(prefix: "contactForm")*@
+
+	<input type="submit"  value="Send" />
+  }
+</section>
