@@ -3,12 +3,12 @@ Umbraco 5 - Smallsite
 
 Idea
 -------------
-This should be a simple website created the most easy and efficient way possible. The website is using Umbraco 5, jQuery and HTML5.
+This should be a simple website created the most easy and efficient way possible. The website should use Umbraco 5, jQuery and HTML5.
 
 So Far...
 -------------
 
-The current State is taht there is a  Home page with some Html displayed and an custom Contact Page with SurfaceController.
+The current State is that there is a  Home page with some Html displayed and an custom Contact Page with a SurfaceController.
 
 What's next?
 -------------
