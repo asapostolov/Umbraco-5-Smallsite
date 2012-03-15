@@ -21,5 +21,7 @@ What's next?
 * Facebook, Twitter, G+, Pinterest integrations for the Products
 
 
-
 If you want to see what's up with the website you can use Username - 'administrator' and password 'admin123@' for logging in the Admin part of Umbraco.
+
+
+### Note: When you open the solution you must assign "Use IIS Express for development server" to the website because Umbraco runs only in IIS Express in Visual Studio. 
