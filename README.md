@@ -9,6 +9,7 @@ So Far...
 -------------
 
 The current State is:
+
 * Boilerplate made with [Skeleton](http://www.getskeleton.com/)
 * Home page with some Html displayed 
 * Custom Contact Page with 'company info' and Input form made with with a SurfaceController
