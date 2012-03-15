@@ -1,0 +1,1080 @@
+2012-03-12 11:02:01,556 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 11:02:01,646 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 11:02:01,652 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 11:02:01,654 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\3de79734\97dc8717
+2012-03-12 11:02:01,755 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:01,756 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\3de79734\97dc8717
+2012-03-12 11:02:01,777 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:01,778 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\3de79734\97dc8717
+2012-03-12 11:02:01,854 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:01,855 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\3de79734\97dc8717
+2012-03-12 11:02:01,910 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:01,911 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\3de79734\97dc8717
+2012-03-12 11:02:02,097 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:02,098 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\3de79734\97dc8717
+2012-03-12 11:02:02,184 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:02,186 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\3de79734\97dc8717
+2012-03-12 11:02:02,270 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:02,271 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\3de79734\97dc8717
+2012-03-12 11:02:02,322 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:02,323 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\3de79734\97dc8717
+2012-03-12 11:02:02,353 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:02,354 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 740ms)
+2012-03-12 11:33:04,773 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 11:33:04,798 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 11:33:04,803 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 11:33:04,805 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:33:04,817 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Editors.dll is locked, attempting to rename
+2012-03-12 11:33:04,841 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:33:04,842 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:33:04,849 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.CMS.Web.ParameterEditors.dll is locked, attempting to rename
+2012-03-12 11:33:04,856 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:33:04,857 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:33:04,863 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.PropertyEditors.dll is locked, attempting to rename
+2012-03-12 11:33:04,902 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:33:04,903 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:33:04,910 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Tasks.dll is locked, attempting to rename
+2012-03-12 11:33:04,925 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:33:04,925 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:33:04,931 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Trees.dll is locked, attempting to rename
+2012-03-12 11:33:04,951 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:33:04,951 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:33:04,957 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Examine.dll is locked, attempting to rename
+2012-03-12 11:33:04,973 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:33:04,973 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:33:04,979 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Lucene.Net.dll is locked, attempting to rename
+2012-03-12 11:33:05,028 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:33:05,029 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:33:05,036 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Framework.Persistence.Examine.dll is locked, attempting to rename
+2012-03-12 11:33:05,083 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:33:05,084 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:33:05,090 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Packages.SystemInfo.dll is locked, attempting to rename
+2012-03-12 11:33:05,105 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:33:05,108 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 323ms)
+2012-03-12 11:33:05,152 [5] INFO  Umbraco.Cms.Web.UI.MvcApplication [(null)] - Http application warmup
+2012-03-12 11:33:05,200 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder FrameworkSetup
+2012-03-12 11:33:05,237 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 35ms)
+2012-03-12 11:33:05,239 [5] INFO  Umbraco.Cms.Web.UmbracoWebApplication [(null)] - Start called. Product info: Umbraco 5.0.0 RTM build 5.0.310.16
+2012-03-12 11:33:05,240 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Created
+2012-03-12 11:33:06,114 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Initialising container
+2012-03-12 11:33:06,116 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Booting
+2012-03-12 11:33:06,117 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder UmbracoContainerBuilder`1
+2012-03-12 11:33:06,130 [5] INFO  Umbraco.Cms.Web.UmbracoWebApplication [(null)] - Container is building
+2012-03-12 11:33:06,131 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder WebTypesDemandBuilder
+2012-03-12 11:33:06,140 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 9ms)
+2012-03-12 11:33:06,144 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder MvcTypesDemandBuilder
+2012-03-12 11:33:06,319 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 175ms)
+2012-03-12 11:33:06,322 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder HiveDemandBuilder
+2012-03-12 11:33:06,421 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 98ms)
+2012-03-12 11:33:06,422 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder LoadFromPersistenceConfig
+2012-03-12 11:33:06,436 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for nhibernate in Umbraco.Framework.Persistence.NHibernate
+2012-03-12 11:33:06,444 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder NHibernateDemandBuilder
+2012-03-12 11:33:06,467 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder NHibernateConfigBuilder
+2012-03-12 11:33:06,470 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 1ms)
+2012-03-12 11:33:06,473 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 27ms)
+2012-03-12 11:33:06,475 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a bootstrapper for nhibernate
+2012-03-12 11:33:06,476 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for nhibernate
+2012-03-12 11:33:06,486 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for membership in Umbraco.Hive.Providers.Membership
+2012-03-12 11:33:06,493 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder MembershipDemandBuilder
+2012-03-12 11:33:06,494 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 1ms)
+2012-03-12 11:33:06,495 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a bootstrapper for membership
+2012-03-12 11:33:06,496 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for membership
+2012-03-12 11:33:06,497 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for templates in Umbraco.Hive.Providers.IO
+2012-03-12 11:33:06,516 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:33:06,517 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:33:06,518 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for templates
+2012-03-12 11:33:06,519 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for templates
+2012-03-12 11:33:06,520 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for partials in Umbraco.Hive.Providers.IO
+2012-03-12 11:33:06,524 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:33:06,524 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:33:06,525 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for partials
+2012-03-12 11:33:06,525 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for partials
+2012-03-12 11:33:06,526 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for file-uploader in Umbraco.Hive.Providers.IO
+2012-03-12 11:33:06,530 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:33:06,530 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:33:06,530 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for file-uploader
+2012-03-12 11:33:06,531 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for file-uploader
+2012-03-12 11:33:06,531 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for scripts in Umbraco.Hive.Providers.IO
+2012-03-12 11:33:06,535 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:33:06,536 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:33:06,536 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for scripts
+2012-03-12 11:33:06,538 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for scripts
+2012-03-12 11:33:06,539 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for stylesheets in Umbraco.Hive.Providers.IO
+2012-03-12 11:33:06,543 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:33:06,543 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:33:06,543 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for stylesheets
+2012-03-12 11:33:06,545 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for stylesheets
+2012-03-12 11:33:06,546 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for macros in Umbraco.Hive.Providers.IO
+2012-03-12 11:33:06,550 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:33:06,550 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:33:06,551 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for macros
+2012-03-12 11:33:06,551 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for macros
+2012-03-12 11:33:06,552 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for macro-partials in Umbraco.Hive.Providers.IO
+2012-03-12 11:33:06,556 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:33:06,556 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:33:06,557 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for macro-partials
+2012-03-12 11:33:06,557 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for macro-partials
+2012-03-12 11:33:06,557 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for stubs in Umbraco.Hive.Providers.IO
+2012-03-12 11:33:06,561 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:33:06,562 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:33:06,562 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for stubs
+2012-03-12 11:33:06,562 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for stubs
+2012-03-12 11:33:06,563 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 140ms)
+2012-03-12 11:33:06,605 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterTasks start took 34ms
+2012-03-12 11:33:06,613 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterTreeControllers start took 6ms
+2012-03-12 11:33:06,621 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterPropertyEditors start took 6ms
+2012-03-12 11:33:06,626 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterParameterEditors start took 4ms
+2012-03-12 11:33:06,636 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterEditorControllers start took 7ms
+2012-03-12 11:33:06,646 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterMenuItems start took 7ms
+2012-03-12 11:33:06,651 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterSurfaceControllers start took 3ms
+2012-03-12 11:33:06,655 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterDashboardFilters start took 3ms
+2012-03-12 11:33:06,658 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterDashboardMatchRules start took 1ms
+2012-03-12 11:33:06,667 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterPermissions start took 4ms
+2012-03-12 11:33:06,672 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterMacroEngines start took 3ms
+2012-03-12 11:33:06,673 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ModelMappingsDemandBuilder
+2012-03-12 11:33:06,677 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 4ms)
+2012-03-12 11:33:06,760 [5] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ReloadTexts
+2012-03-12 11:33:06,799 [5] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ReloadTexts (took 27ms)
+2012-03-12 11:33:06,805 [5] INFO  Umbraco.Cms.Web.UmbracoWebApplication [(null)] - Container building is complete
+2012-03-12 11:33:06,806 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 688ms)
+2012-03-12 11:33:06,905 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Booting CmsBootstrapper
+2012-03-12 11:33:09,003 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Booting RenderBootstrapper
+2012-03-12 11:33:09,014 [5] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - Executing Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder
+2012-03-12 11:33:09,016 [5] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - Building configuration tasks
+2012-03-12 11:33:09,031 [5] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - Found post-package-install config task of type DisplayUITask for package, registering it as systeminfo-post-package-install
+2012-03-12 11:33:09,032 [5] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - End building configuration tasks (took 14ms)
+2012-03-12 11:33:10,404 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Application start took 5162ms
+2012-03-12 11:33:11,474 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:11,478 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:33:11,478 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 2ms)
+2012-03-12 11:33:11,524 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:33:12,766 [7] INFO  Umbraco.Cms.Web.Routing.DefaultRoutingEngine [(null)] - Resolving entity by Non-Domain URL
+2012-03-12 11:33:13,504 [7] INFO  Umbraco.Cms.Web.Routing.DefaultRoutingEngine [(null)] - FindEntityByUrl for URL http://localhost:50094/ took 1974ms
+2012-03-12 11:33:14,609 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 3084ms)
+2012-03-12 11:33:14,613 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:14,614 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:33:14,887 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:14,900 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:33:14,993 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:14,994 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:33:14,995 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:14,995 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:33:15,407 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:15,409 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:33:15,409 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:15,409 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:33:15,612 [7] WARN  NHibernate.Engine.StatefulPersistenceContext.ProxyWarnLog [(null)] - Narrowing proxy to Umbraco.Framework.Persistence.RdbmsModel.AttributeSchemaDefinition - this operation breaks ==
+2012-03-12 11:33:16,619 [7] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:33:16,645 [7] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:33:16,646 [7] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:33:23,371 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:23,373 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:33:23,374 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 1ms)
+2012-03-12 11:33:23,375 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:33:23,439 [9] INFO  Umbraco.Cms.Web.Routing.DefaultRoutingEngine [(null)] - Resolving entity by Non-Domain URL
+2012-03-12 11:33:24,001 [9] INFO  Umbraco.Cms.Web.Routing.DefaultRoutingEngine [(null)] - FindEntityByUrl for URL http://localhost:50094/contact took 624ms
+2012-03-12 11:33:24,011 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 634ms)
+2012-03-12 11:33:24,011 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:24,012 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:33:24,021 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:24,021 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:33:24,024 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:24,025 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:33:24,025 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:24,026 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:33:24,302 [9] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ReloadTexts
+2012-03-12 11:33:24,305 [9] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ReloadTexts (took 2ms)
+2012-03-12 11:33:24,348 [9] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ReloadTexts
+2012-03-12 11:33:24,349 [9] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ReloadTexts (took 1ms)
+2012-03-12 11:33:24,378 [9] ERROR Umbraco.Cms.Web.Macros.MacroRenderer [(null)] - An error occurred rendering the macro &#39;ContactForm&#39;. ERROR: &#39;The string format for macro.SelectedItem for child actions must be: [AreaName-]ControllerName.ActionName&#39;. See Umbraco log for full details.
+System.FormatException: The string format for macro.SelectedItem for child actions must be: [AreaName-]ControllerName.ActionName
+   at Umbraco.Cms.Web.MacroModelExtensions.GetSurfaceMacroChildAction(MacroDefinition macro, ComponentRegistrations components, MethodInfo& action)
+   at Umbraco.Cms.Web.Macros.ChildActionMacroEngine.Execute(Content currentNode, IDictionary`2 macroParams, MacroDefinition macro, ControllerContext currentControllerContext, IRoutableRequestContext routableRequestContext)
+   at Umbraco.Cms.Web.Macros.MacroRenderer.GetMacroResult(String macroAlias, Func`1 getMacroMethod, Func`1 getNodeMethod, IDictionary`2 macroParams, ControllerContext currentControllerContext)
+2012-03-12 11:33:24,380 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:24,380 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:33:24,381 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:33:24,381 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:33:24,542 [9] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:33:24,545 [9] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:33:24,545 [9] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:33:42,985 [12] INFO  Umbraco.Hive.Tasks.CacheWatcherTask [(null)] - Executing Umbraco.Hive.Tasks.CacheWatcherTask
+2012-03-12 11:33:43,610 [12] INFO  Umbraco.Hive.Tasks.CacheWatcherTask [(null)] - Executing Umbraco.Hive.Tasks.CacheWatcherTask
+2012-03-12 11:33:43,894 [12] INFO  Umbraco.Hive.Tasks.CacheWatcherTask [(null)] - Executing Umbraco.Hive.Tasks.CacheWatcherTask
+2012-03-12 11:33:44,189 [12] INFO  Umbraco.Hive.Tasks.CacheWatcherTask [(null)] - Executing Umbraco.Hive.Tasks.CacheWatcherTask
+2012-03-12 11:33:44,190 [12] INFO  Umbraco.Hive.Tasks.CacheWatcherTask [(null)] - Executing Umbraco.Hive.Tasks.CacheWatcherTask
+2012-03-12 11:33:45,040 [17] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ParseAllPatterns
+2012-03-12 11:33:45,085 [17] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ParseAllPatterns (took 43ms)
+2012-03-12 11:33:45,919 [18] INFO  Umbraco.Cms.Web.Trees.ContentTreeController [(null)] - FilterWithPermissions
+2012-03-12 11:33:45,935 [18] INFO  Umbraco.Cms.Web.Trees.ContentTreeController [(null)] - FilterWithPermissions (took 1ms)
+2012-03-12 11:33:45,936 [18] INFO  Umbraco.Cms.Web.Trees.ContentTreeController [(null)] - Get childIds
+2012-03-12 11:33:46,061 [18] INFO  Umbraco.Cms.Web.Trees.ContentTreeController [(null)] - Get childIds (took 124ms)
+2012-03-12 11:33:52,754 [10] INFO  Umbraco.Hive.Tasks.CacheWatcherTask [(null)] - Executing Umbraco.Hive.Tasks.CacheWatcherTask
+2012-03-12 11:02:27,993 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 11:02:28,012 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 11:02:28,020 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 11:02:28,022 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:02:28,043 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:28,044 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:02:28,047 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:28,048 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:02:28,094 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:28,095 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:02:28,105 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:28,106 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:02:28,121 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:28,122 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:02:28,146 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:28,147 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:02:28,186 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:28,186 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:02:28,207 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:28,208 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:02:28,221 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:02:28,223 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 218ms)
+2012-03-12 11:35:03,844 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 11:35:03,865 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 11:35:03,870 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 11:35:03,871 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:03,873 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Editors.dll is locked, attempting to rename
+2012-03-12 11:35:03,904 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:03,905 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:03,905 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.CMS.Web.ParameterEditors.dll is locked, attempting to rename
+2012-03-12 11:35:03,909 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:03,910 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:03,910 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.PropertyEditors.dll is locked, attempting to rename
+2012-03-12 11:35:03,929 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:03,930 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:03,931 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Tasks.dll is locked, attempting to rename
+2012-03-12 11:35:03,942 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:03,943 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:03,944 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Trees.dll is locked, attempting to rename
+2012-03-12 11:35:03,969 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:03,969 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:03,970 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Examine.dll is locked, attempting to rename
+2012-03-12 11:35:03,996 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:03,996 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:03,997 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Lucene.Net.dll is locked, attempting to rename
+2012-03-12 11:35:04,037 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:04,037 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:04,038 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Framework.Persistence.Examine.dll is locked, attempting to rename
+2012-03-12 11:35:04,065 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:04,065 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:04,066 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Packages.SystemInfo.dll is locked, attempting to rename
+2012-03-12 11:35:04,078 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:04,079 [21] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 224ms)
+2012-03-12 11:35:04,102 [21] INFO  Umbraco.Cms.Web.UI.MvcApplication [(null)] - Http application warmup
+2012-03-12 11:35:04,139 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder FrameworkSetup
+2012-03-12 11:35:04,169 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 28ms)
+2012-03-12 11:35:04,182 [21] INFO  Umbraco.Cms.Web.UmbracoWebApplication [(null)] - Start called. Product info: Umbraco 5.0.0 RTM build 5.0.310.16
+2012-03-12 11:35:04,189 [21] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Created
+2012-03-12 11:35:04,760 [21] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Initialising container
+2012-03-12 11:35:04,762 [21] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Booting
+2012-03-12 11:35:04,763 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder UmbracoContainerBuilder`1
+2012-03-12 11:35:04,774 [21] INFO  Umbraco.Cms.Web.UmbracoWebApplication [(null)] - Container is building
+2012-03-12 11:35:04,774 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder WebTypesDemandBuilder
+2012-03-12 11:35:04,785 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 10ms)
+2012-03-12 11:35:04,789 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder MvcTypesDemandBuilder
+2012-03-12 11:35:04,950 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 161ms)
+2012-03-12 11:35:04,953 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder HiveDemandBuilder
+2012-03-12 11:35:05,009 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 54ms)
+2012-03-12 11:35:05,010 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder LoadFromPersistenceConfig
+2012-03-12 11:35:05,026 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for nhibernate in Umbraco.Framework.Persistence.NHibernate
+2012-03-12 11:35:05,033 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder NHibernateDemandBuilder
+2012-03-12 11:35:05,039 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder NHibernateConfigBuilder
+2012-03-12 11:35:05,042 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 1ms)
+2012-03-12 11:35:05,045 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 11ms)
+2012-03-12 11:35:05,047 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a bootstrapper for nhibernate
+2012-03-12 11:35:05,048 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for nhibernate
+2012-03-12 11:35:05,055 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for membership in Umbraco.Hive.Providers.Membership
+2012-03-12 11:35:05,061 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder MembershipDemandBuilder
+2012-03-12 11:35:05,063 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 1ms)
+2012-03-12 11:35:05,063 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a bootstrapper for membership
+2012-03-12 11:35:05,064 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for membership
+2012-03-12 11:35:05,065 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for templates in Umbraco.Hive.Providers.IO
+2012-03-12 11:35:05,074 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:35:05,075 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:35:05,076 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for templates
+2012-03-12 11:35:05,077 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for templates
+2012-03-12 11:35:05,078 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for partials in Umbraco.Hive.Providers.IO
+2012-03-12 11:35:05,082 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:35:05,082 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:35:05,082 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for partials
+2012-03-12 11:35:05,083 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for partials
+2012-03-12 11:35:05,083 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for file-uploader in Umbraco.Hive.Providers.IO
+2012-03-12 11:35:05,087 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:35:05,088 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:35:05,088 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for file-uploader
+2012-03-12 11:35:05,088 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for file-uploader
+2012-03-12 11:35:05,089 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for scripts in Umbraco.Hive.Providers.IO
+2012-03-12 11:35:05,093 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:35:05,093 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:35:05,094 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for scripts
+2012-03-12 11:35:05,095 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for scripts
+2012-03-12 11:35:05,096 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for stylesheets in Umbraco.Hive.Providers.IO
+2012-03-12 11:35:05,101 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:35:05,102 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:35:05,102 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for stylesheets
+2012-03-12 11:35:05,103 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for stylesheets
+2012-03-12 11:35:05,103 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for macros in Umbraco.Hive.Providers.IO
+2012-03-12 11:35:05,108 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:35:05,109 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:35:05,109 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for macros
+2012-03-12 11:35:05,109 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for macros
+2012-03-12 11:35:05,110 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for macro-partials in Umbraco.Hive.Providers.IO
+2012-03-12 11:35:05,114 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:35:05,114 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:35:05,115 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for macro-partials
+2012-03-12 11:35:05,115 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for macro-partials
+2012-03-12 11:35:05,116 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for stubs in Umbraco.Hive.Providers.IO
+2012-03-12 11:35:05,119 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:35:05,120 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:35:05,120 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for stubs
+2012-03-12 11:35:05,121 [21] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for stubs
+2012-03-12 11:35:05,121 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 110ms)
+2012-03-12 11:35:05,143 [21] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterTasks start took 15ms
+2012-03-12 11:35:05,152 [21] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterTreeControllers start took 6ms
+2012-03-12 11:35:05,160 [21] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterPropertyEditors start took 6ms
+2012-03-12 11:35:05,166 [21] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterParameterEditors start took 4ms
+2012-03-12 11:35:05,176 [21] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterEditorControllers start took 6ms
+2012-03-12 11:35:05,185 [21] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterMenuItems start took 7ms
+2012-03-12 11:35:05,190 [21] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterSurfaceControllers start took 3ms
+2012-03-12 11:35:05,195 [21] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterDashboardFilters start took 3ms
+2012-03-12 11:35:05,198 [21] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterDashboardMatchRules start took 1ms
+2012-03-12 11:35:05,204 [21] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterPermissions start took 4ms
+2012-03-12 11:35:05,209 [21] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterMacroEngines start took 3ms
+2012-03-12 11:35:05,210 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ModelMappingsDemandBuilder
+2012-03-12 11:35:05,215 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 4ms)
+2012-03-12 11:35:05,220 [21] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ReloadTexts
+2012-03-12 11:35:05,243 [21] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ReloadTexts (took 21ms)
+2012-03-12 11:35:05,246 [21] INFO  Umbraco.Cms.Web.UmbracoWebApplication [(null)] - Container building is complete
+2012-03-12 11:35:05,246 [21] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 483ms)
+2012-03-12 11:35:05,323 [21] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Booting CmsBootstrapper
+2012-03-12 11:35:07,106 [21] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Booting RenderBootstrapper
+2012-03-12 11:35:07,117 [21] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - Executing Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder
+2012-03-12 11:35:07,119 [21] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - Building configuration tasks
+2012-03-12 11:35:07,131 [21] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - Found post-package-install config task of type DisplayUITask for package, registering it as systeminfo-post-package-install
+2012-03-12 11:35:07,132 [21] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - End building configuration tasks (took 11ms)
+2012-03-12 11:35:07,465 [21] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Application start took 3276ms
+2012-03-12 11:35:09,785 [12] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ReloadTexts
+2012-03-12 11:35:09,797 [12] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ReloadTexts (took 1ms)
+2012-03-12 11:35:09,798 [12] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ReloadTexts
+2012-03-12 11:35:09,800 [12] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ReloadTexts (took 0ms)
+2012-03-12 11:35:10,184 [7] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ParseAllPatterns
+2012-03-12 11:35:10,222 [7] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ParseAllPatterns (took 37ms)
+2012-03-12 11:34:18,340 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 11:34:18,361 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 11:34:18,366 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 11:34:18,368 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:34:18,611 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:34:18,612 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:34:18,661 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:34:18,662 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:34:18,704 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:34:18,705 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:34:18,781 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:34:18,782 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:34:18,802 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:34:18,803 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:34:18,817 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:34:18,818 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:34:18,843 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:34:18,843 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:34:18,861 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:34:18,861 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:34:18,889 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:34:18,890 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 538ms)
+2012-03-12 11:35:40,356 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 11:35:40,376 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 11:35:40,381 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 11:35:40,385 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:40,403 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:40,404 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:40,407 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:40,408 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:40,427 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:40,428 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:40,438 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:40,438 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:40,452 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:40,452 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:40,464 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:40,464 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:40,489 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:40,490 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:40,507 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:40,507 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:35:40,518 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:35:40,519 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 152ms)
+2012-03-12 11:36:25,819 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 11:36:25,840 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 11:36:25,844 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 11:36:25,846 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:25,866 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:25,867 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:25,870 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:25,870 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:25,892 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:25,892 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:25,903 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:25,903 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:25,915 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:25,916 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:25,927 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:25,927 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:25,951 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:25,951 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:25,967 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:25,968 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:25,978 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:25,979 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 149ms)
+2012-03-12 11:36:44,339 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 11:36:44,358 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 11:36:44,363 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 11:36:44,365 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:44,402 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:44,403 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:44,407 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:44,408 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:44,428 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:44,429 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:44,439 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:44,440 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:44,475 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:44,475 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:44,487 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:44,488 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:44,512 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:44,512 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:44,530 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:44,530 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:36:44,543 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:36:44,544 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 194ms)
+2012-03-12 11:40:43,868 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 11:40:43,893 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 11:40:43,897 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 11:40:43,899 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:40:43,918 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Editors.dll is locked, attempting to rename
+2012-03-12 11:40:43,941 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:40:43,942 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:40:43,949 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.CMS.Web.ParameterEditors.dll is locked, attempting to rename
+2012-03-12 11:40:43,956 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:40:43,957 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:40:43,964 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.PropertyEditors.dll is locked, attempting to rename
+2012-03-12 11:40:44,002 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:40:44,003 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:40:44,010 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Tasks.dll is locked, attempting to rename
+2012-03-12 11:40:44,030 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:40:44,030 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:40:44,038 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Trees.dll is locked, attempting to rename
+2012-03-12 11:40:44,055 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:40:44,056 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:40:44,063 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Examine.dll is locked, attempting to rename
+2012-03-12 11:40:44,094 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:40:44,094 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:40:44,101 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Lucene.Net.dll is locked, attempting to rename
+2012-03-12 11:40:44,131 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:40:44,132 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:40:44,139 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Framework.Persistence.Examine.dll is locked, attempting to rename
+2012-03-12 11:40:44,168 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:40:44,170 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:40:44,177 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Packages.SystemInfo.dll is locked, attempting to rename
+2012-03-12 11:40:44,194 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:40:44,197 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 317ms)
+2012-03-12 11:40:44,267 [5] INFO  Umbraco.Cms.Web.UI.MvcApplication [(null)] - Http application warmup
+2012-03-12 11:40:44,303 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder FrameworkSetup
+2012-03-12 11:40:44,342 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 37ms)
+2012-03-12 11:40:44,344 [5] INFO  Umbraco.Cms.Web.UmbracoWebApplication [(null)] - Start called. Product info: Umbraco 5.0.0 RTM build 5.0.310.16
+2012-03-12 11:40:44,345 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Created
+2012-03-12 11:40:45,186 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Initialising container
+2012-03-12 11:40:45,188 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Booting
+2012-03-12 11:40:45,189 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder UmbracoContainerBuilder`1
+2012-03-12 11:40:45,203 [5] INFO  Umbraco.Cms.Web.UmbracoWebApplication [(null)] - Container is building
+2012-03-12 11:40:45,204 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder WebTypesDemandBuilder
+2012-03-12 11:40:45,214 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 9ms)
+2012-03-12 11:40:45,217 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder MvcTypesDemandBuilder
+2012-03-12 11:40:45,378 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 159ms)
+2012-03-12 11:40:45,381 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder HiveDemandBuilder
+2012-03-12 11:40:45,439 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 58ms)
+2012-03-12 11:40:45,440 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder LoadFromPersistenceConfig
+2012-03-12 11:40:45,454 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for nhibernate in Umbraco.Framework.Persistence.NHibernate
+2012-03-12 11:40:45,463 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder NHibernateDemandBuilder
+2012-03-12 11:40:45,473 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder NHibernateConfigBuilder
+2012-03-12 11:40:45,475 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 1ms)
+2012-03-12 11:40:45,478 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 15ms)
+2012-03-12 11:40:45,481 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a bootstrapper for nhibernate
+2012-03-12 11:40:45,485 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for nhibernate
+2012-03-12 11:40:45,491 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for membership in Umbraco.Hive.Providers.Membership
+2012-03-12 11:40:45,497 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder MembershipDemandBuilder
+2012-03-12 11:40:45,499 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 1ms)
+2012-03-12 11:40:45,500 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a bootstrapper for membership
+2012-03-12 11:40:45,500 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for membership
+2012-03-12 11:40:45,502 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for templates in Umbraco.Hive.Providers.IO
+2012-03-12 11:40:45,511 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:40:45,512 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:40:45,513 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for templates
+2012-03-12 11:40:45,514 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for templates
+2012-03-12 11:40:45,515 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for partials in Umbraco.Hive.Providers.IO
+2012-03-12 11:40:45,519 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:40:45,520 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:40:45,520 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for partials
+2012-03-12 11:40:45,521 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for partials
+2012-03-12 11:40:45,521 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for file-uploader in Umbraco.Hive.Providers.IO
+2012-03-12 11:40:45,525 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:40:45,526 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:40:45,526 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for file-uploader
+2012-03-12 11:40:45,527 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for file-uploader
+2012-03-12 11:40:45,527 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for scripts in Umbraco.Hive.Providers.IO
+2012-03-12 11:40:45,531 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:40:45,532 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:40:45,532 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for scripts
+2012-03-12 11:40:45,534 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for scripts
+2012-03-12 11:40:45,535 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for stylesheets in Umbraco.Hive.Providers.IO
+2012-03-12 11:40:45,539 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:40:45,539 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:40:45,540 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for stylesheets
+2012-03-12 11:40:45,540 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for stylesheets
+2012-03-12 11:40:45,541 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for macros in Umbraco.Hive.Providers.IO
+2012-03-12 11:40:45,545 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:40:45,545 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:40:45,545 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for macros
+2012-03-12 11:40:45,546 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for macros
+2012-03-12 11:40:45,546 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for macro-partials in Umbraco.Hive.Providers.IO
+2012-03-12 11:40:45,550 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:40:45,551 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:40:45,551 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for macro-partials
+2012-03-12 11:40:45,551 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for macro-partials
+2012-03-12 11:40:45,552 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for stubs in Umbraco.Hive.Providers.IO
+2012-03-12 11:40:45,556 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:40:45,556 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:40:45,557 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for stubs
+2012-03-12 11:40:45,557 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for stubs
+2012-03-12 11:40:45,558 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 117ms)
+2012-03-12 11:40:45,580 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterTasks start took 15ms
+2012-03-12 11:40:45,589 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterTreeControllers start took 6ms
+2012-03-12 11:40:45,597 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterPropertyEditors start took 6ms
+2012-03-12 11:40:45,603 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterParameterEditors start took 4ms
+2012-03-12 11:40:45,613 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterEditorControllers start took 7ms
+2012-03-12 11:40:45,624 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterMenuItems start took 8ms
+2012-03-12 11:40:45,629 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterSurfaceControllers start took 4ms
+2012-03-12 11:40:45,634 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterDashboardFilters start took 3ms
+2012-03-12 11:40:45,636 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterDashboardMatchRules start took 1ms
+2012-03-12 11:40:45,643 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterPermissions start took 4ms
+2012-03-12 11:40:45,648 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterMacroEngines start took 3ms
+2012-03-12 11:40:45,649 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ModelMappingsDemandBuilder
+2012-03-12 11:40:45,654 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 4ms)
+2012-03-12 11:40:45,658 [5] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ReloadTexts
+2012-03-12 11:40:45,668 [5] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ReloadTexts (took 8ms)
+2012-03-12 11:40:45,671 [5] INFO  Umbraco.Cms.Web.UmbracoWebApplication [(null)] - Container building is complete
+2012-03-12 11:40:45,672 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 482ms)
+2012-03-12 11:40:45,745 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Booting CmsBootstrapper
+2012-03-12 11:40:47,595 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Booting RenderBootstrapper
+2012-03-12 11:40:47,607 [5] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - Executing Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder
+2012-03-12 11:40:47,609 [5] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - Building configuration tasks
+2012-03-12 11:40:47,623 [5] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - Found post-package-install config task of type DisplayUITask for package, registering it as systeminfo-post-package-install
+2012-03-12 11:40:47,624 [5] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - End building configuration tasks (took 14ms)
+2012-03-12 11:40:48,021 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Application start took 3675ms
+2012-03-12 11:40:57,575 [17] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ReloadTexts
+2012-03-12 11:40:57,581 [17] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ReloadTexts (took 3ms)
+2012-03-12 11:40:57,726 [17] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ReloadTexts
+2012-03-12 11:40:57,728 [17] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ReloadTexts (took 0ms)
+2012-03-12 11:40:57,975 [22] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ParseAllPatterns
+2012-03-12 11:40:58,005 [22] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ParseAllPatterns (took 29ms)
+2012-03-12 11:41:03,674 [22] INFO  Umbraco.Hive.Tasks.CacheWatcherTask [(null)] - Executing Umbraco.Hive.Tasks.CacheWatcherTask
+2012-03-12 11:41:08,739 [17] INFO  Umbraco.Hive.Tasks.CacheWatcherTask [(null)] - Executing Umbraco.Hive.Tasks.CacheWatcherTask
+2012-03-12 11:41:08,759 [17] INFO  Umbraco.Hive.Tasks.CacheWatcherTask [(null)] - Executing Umbraco.Hive.Tasks.CacheWatcherTask
+2012-03-12 11:41:08,825 [7] INFO  Umbraco.Hive.Tasks.CacheWatcherTask [(null)] - Executing Umbraco.Hive.Tasks.CacheWatcherTask
+2012-03-12 11:41:17,563 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:17,565 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:41:17,566 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 1ms)
+2012-03-12 11:41:17,578 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:41:17,721 [7] INFO  Umbraco.Cms.Web.Routing.DefaultRoutingEngine [(null)] - Resolving entity by Non-Domain URL
+2012-03-12 11:41:18,343 [7] INFO  Umbraco.Cms.Web.Routing.DefaultRoutingEngine [(null)] - FindEntityByUrl for URL http://localhost:50094/contact took 756ms
+2012-03-12 11:41:18,787 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 1208ms)
+2012-03-12 11:41:18,790 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:18,791 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:18,804 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:18,804 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:18,823 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:18,824 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:18,825 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:18,826 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:19,023 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:19,026 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:19,027 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:19,027 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:19,732 [7] WARN  NHibernate.Engine.StatefulPersistenceContext.ProxyWarnLog [(null)] - Narrowing proxy to Umbraco.Framework.Persistence.RdbmsModel.AttributeSchemaDefinition - this operation breaks ==
+2012-03-12 11:41:20,687 [7] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:41:20,688 [7] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:41:20,688 [7] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:41:42,251 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:42,253 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:41:42,254 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:42,254 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:41:42,293 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 38ms)
+2012-03-12 11:41:42,294 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:42,294 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:49,778 [10] INFO  Umbraco.Cms.Web.Mvc.UmbracoPageResult [(null)] - Executing Umbraco RouteDefinition controller
+2012-03-12 11:41:49,781 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:49,782 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:49,788 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:49,789 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:49,790 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:49,791 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:49,807 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:49,808 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:49,809 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:41:49,809 [10] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:41:49,971 [10] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:41:49,974 [10] INFO  Umbraco.Cms.Web.Mvc.UmbracoPageResult [(null)] - Finished (took 194ms)
+2012-03-12 11:41:49,975 [10] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:48:27,550 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:48:27,551 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:48:27,551 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:48:27,552 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:48:28,293 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 738ms)
+2012-03-12 11:48:28,293 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:48:28,294 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:48:31,094 [13] INFO  Umbraco.Cms.Web.Mvc.UmbracoPageResult [(null)] - Executing Umbraco RouteDefinition controller
+2012-03-12 11:48:31,096 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:48:31,098 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:48:31,109 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:48:31,111 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:48:31,111 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:48:31,112 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:48:31,132 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:48:31,132 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:48:31,134 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:48:31,134 [13] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:48:31,722 [13] WARN  NHibernate.Engine.StatefulPersistenceContext.ProxyWarnLog [(null)] - Narrowing proxy to Umbraco.Framework.Persistence.RdbmsModel.AttributeSchemaDefinition - this operation breaks ==
+2012-03-12 11:48:32,306 [13] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:48:32,309 [13] INFO  Umbraco.Cms.Web.Mvc.UmbracoPageResult [(null)] - Finished (took 1213ms)
+2012-03-12 11:48:32,310 [13] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:50:15,542 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:15,543 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:50:15,544 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 1ms)
+2012-03-12 11:50:15,545 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:50:16,321 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 775ms)
+2012-03-12 11:50:16,322 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:16,323 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:16,329 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:16,331 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:16,333 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:16,333 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:16,334 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:16,334 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:17,719 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:17,720 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:17,721 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:17,721 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:18,877 [22] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:50:18,880 [22] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:50:18,881 [22] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:50:20,465 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:20,465 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:50:20,465 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:20,465 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:50:21,226 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 765ms)
+2012-03-12 11:50:21,226 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:21,227 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:21,253 [23] INFO  Umbraco.Cms.Web.Mvc.UmbracoPageResult [(null)] - Executing Umbraco RouteDefinition controller
+2012-03-12 11:50:21,254 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:21,255 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:21,257 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:21,257 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:21,258 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:21,258 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:21,268 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:21,269 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:21,269 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:21,270 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:22,456 [23] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:50:22,459 [23] INFO  Umbraco.Cms.Web.Mvc.UmbracoPageResult [(null)] - Finished (took 1206ms)
+2012-03-12 11:50:22,460 [23] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:50:57,902 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:57,902 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:50:57,902 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:57,902 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:50:58,675 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 775ms)
+2012-03-12 11:50:58,675 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:58,676 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:58,682 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:58,682 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:58,684 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:58,685 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:58,685 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:58,685 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:59,225 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:59,226 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:50:59,226 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:50:59,227 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:51:00,386 [7] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:51:00,390 [7] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:51:00,392 [7] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:51:01,579 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:51:01,579 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:51:01,579 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:51:01,579 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:51:02,349 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 779ms)
+2012-03-12 11:51:02,350 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:51:02,350 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:51:02,377 [9] INFO  Umbraco.Cms.Web.Mvc.UmbracoPageResult [(null)] - Executing Umbraco RouteDefinition controller
+2012-03-12 11:51:02,378 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:51:02,378 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:51:02,380 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:51:02,381 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:51:02,381 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:51:02,381 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:51:02,389 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:51:02,390 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:51:02,391 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:51:02,392 [9] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:51:03,569 [9] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:51:03,573 [9] INFO  Umbraco.Cms.Web.Mvc.UmbracoPageResult [(null)] - Finished (took 1195ms)
+2012-03-12 11:51:03,574 [9] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:52:58,765 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:52:58,766 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:52:58,766 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:52:58,767 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:52:59,553 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 782ms)
+2012-03-12 11:52:59,554 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:52:59,554 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:52:59,561 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:52:59,562 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:52:59,564 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:52:59,564 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:52:59,565 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:52:59,565 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:53:00,131 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:53:00,132 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:53:00,133 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:53:00,133 [16] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:53:01,312 [16] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:53:01,315 [16] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:53:01,316 [16] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:53:36,645 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:53:36,646 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:53:36,646 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:53:36,646 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:53:37,393 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 746ms)
+2012-03-12 11:53:37,394 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:53:37,394 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:53:37,401 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:53:37,402 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:53:37,404 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:53:37,406 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:53:37,406 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:53:37,407 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:53:37,963 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:53:37,964 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:53:37,964 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:53:37,965 [22] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:53:38,541 [22] WARN  NHibernate.Engine.StatefulPersistenceContext.ProxyWarnLog [(null)] - Narrowing proxy to Umbraco.Framework.Persistence.RdbmsModel.AttributeSchemaDefinition - this operation breaks ==
+2012-03-12 11:53:39,101 [22] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:53:39,105 [22] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:53:39,105 [22] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:39:32,390 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 11:39:32,410 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 11:39:32,414 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 11:39:32,416 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:39:32,437 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:39:32,438 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:39:32,441 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:39:32,442 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:39:32,460 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:39:32,461 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:39:32,471 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:39:32,472 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:39:32,484 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:39:32,485 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:39:32,496 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:39:32,497 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:39:32,521 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:39:32,521 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:39:32,559 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:39:32,560 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:39:32,571 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:39:32,572 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 171ms)
+2012-03-12 11:54:54,917 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 11:54:54,938 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 11:54:54,942 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 11:54:54,944 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:54,945 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Editors.dll is locked, attempting to rename
+2012-03-12 11:54:54,969 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:54,969 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:54,970 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.CMS.Web.ParameterEditors.dll is locked, attempting to rename
+2012-03-12 11:54:54,974 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:54,974 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:54,975 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.PropertyEditors.dll is locked, attempting to rename
+2012-03-12 11:54:54,995 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:54,995 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:54,996 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Tasks.dll is locked, attempting to rename
+2012-03-12 11:54:55,007 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:55,008 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:55,009 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Trees.dll is locked, attempting to rename
+2012-03-12 11:54:55,022 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:55,023 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:55,023 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Examine.dll is locked, attempting to rename
+2012-03-12 11:54:55,036 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:55,037 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:55,038 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Lucene.Net.dll is locked, attempting to rename
+2012-03-12 11:54:55,092 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:55,093 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:55,095 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Framework.Persistence.Examine.dll is locked, attempting to rename
+2012-03-12 11:54:56,598 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 11:54:56,629 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 11:54:56,635 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 11:54:56,636 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:56,656 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Editors.dll is locked, attempting to rename
+2012-03-12 11:54:56,685 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:56,686 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:56,696 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.CMS.Web.ParameterEditors.dll is locked, attempting to rename
+2012-03-12 11:54:56,707 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:56,708 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:56,717 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.PropertyEditors.dll is locked, attempting to rename
+2012-03-12 11:54:56,759 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:56,760 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:56,769 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Tasks.dll is locked, attempting to rename
+2012-03-12 11:54:56,784 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:56,785 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:56,793 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Web.Trees.dll is locked, attempting to rename
+2012-03-12 11:54:56,842 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:56,842 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:56,852 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Examine.dll is locked, attempting to rename
+2012-03-12 11:54:56,853 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:56,853 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:56,858 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Lucene.Net.dll is locked, attempting to rename
+2012-03-12 11:54:56,908 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:56,909 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:56,917 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Framework.Persistence.Examine.dll is locked, attempting to rename
+2012-03-12 11:54:56,960 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:56,960 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:56,968 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Packages.SystemInfo.dll is locked, attempting to rename
+2012-03-12 11:54:56,985 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:56,987 [5] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 374ms)
+2012-03-12 11:54:57,013 [5] INFO  Umbraco.Cms.Web.UI.MvcApplication [(null)] - Http application warmup
+2012-03-12 11:54:57,063 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder FrameworkSetup
+2012-03-12 11:54:57,101 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 36ms)
+2012-03-12 11:54:57,104 [5] INFO  Umbraco.Cms.Web.UmbracoWebApplication [(null)] - Start called. Product info: Umbraco 5.0.0 RTM build 5.0.310.16
+2012-03-12 11:54:57,105 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Created
+2012-03-12 11:54:57,963 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Initialising container
+2012-03-12 11:54:57,965 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Booting
+2012-03-12 11:54:57,965 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder UmbracoContainerBuilder`1
+2012-03-12 11:54:57,979 [5] INFO  Umbraco.Cms.Web.UmbracoWebApplication [(null)] - Container is building
+2012-03-12 11:54:57,980 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder WebTypesDemandBuilder
+2012-03-12 11:54:57,990 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 9ms)
+2012-03-12 11:54:57,994 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder MvcTypesDemandBuilder
+2012-03-12 11:54:58,156 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 161ms)
+2012-03-12 11:54:58,159 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder HiveDemandBuilder
+2012-03-12 11:54:58,218 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 59ms)
+2012-03-12 11:54:58,219 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder LoadFromPersistenceConfig
+2012-03-12 11:54:58,234 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for nhibernate in Umbraco.Framework.Persistence.NHibernate
+2012-03-12 11:54:58,242 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder NHibernateDemandBuilder
+2012-03-12 11:54:58,255 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder NHibernateConfigBuilder
+2012-03-12 11:54:58,257 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 1ms)
+2012-03-12 11:54:58,261 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 18ms)
+2012-03-12 11:54:58,264 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a bootstrapper for nhibernate
+2012-03-12 11:54:58,265 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for nhibernate
+2012-03-12 11:54:58,271 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for membership in Umbraco.Hive.Providers.Membership
+2012-03-12 11:54:58,278 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder MembershipDemandBuilder
+2012-03-12 11:54:58,279 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 1ms)
+2012-03-12 11:54:58,280 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a bootstrapper for membership
+2012-03-12 11:54:58,280 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for membership
+2012-03-12 11:54:58,282 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for templates in Umbraco.Hive.Providers.IO
+2012-03-12 11:54:58,291 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:54:58,292 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:54:58,293 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for templates
+2012-03-12 11:54:58,294 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for templates
+2012-03-12 11:54:58,295 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for partials in Umbraco.Hive.Providers.IO
+2012-03-12 11:54:58,300 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:54:58,301 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:54:58,301 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for partials
+2012-03-12 11:54:58,302 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for partials
+2012-03-12 11:54:58,303 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for file-uploader in Umbraco.Hive.Providers.IO
+2012-03-12 11:54:58,308 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:54:58,308 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:54:58,309 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for file-uploader
+2012-03-12 11:54:58,309 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for file-uploader
+2012-03-12 11:54:58,310 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for scripts in Umbraco.Hive.Providers.IO
+2012-03-12 11:54:58,315 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:54:58,315 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:54:58,316 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for scripts
+2012-03-12 11:54:58,318 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for scripts
+2012-03-12 11:54:58,319 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for stylesheets in Umbraco.Hive.Providers.IO
+2012-03-12 11:54:58,325 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:54:58,326 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:54:58,326 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for stylesheets
+2012-03-12 11:54:58,327 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for stylesheets
+2012-03-12 11:54:58,328 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for macros in Umbraco.Hive.Providers.IO
+2012-03-12 11:54:58,332 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:54:58,333 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:54:58,333 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for macros
+2012-03-12 11:54:58,334 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for macros
+2012-03-12 11:54:58,334 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for macro-partials in Umbraco.Hive.Providers.IO
+2012-03-12 11:54:58,339 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:54:58,339 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:54:58,339 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for macro-partials
+2012-03-12 11:54:58,340 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for macro-partials
+2012-03-12 11:54:58,340 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Calling setup module for stubs in Umbraco.Hive.Providers.IO
+2012-03-12 11:54:58,345 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ProviderDemandBuilder
+2012-03-12 11:54:58,346 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 0ms)
+2012-03-12 11:54:58,346 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a no-op bootstrapper for stubs
+2012-03-12 11:54:58,346 [5] INFO  Umbraco.Hive.DependencyManagement.ProviderDemandRunner [(null)] - Registering a ProviderDependencyHelper for stubs
+2012-03-12 11:54:58,347 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 127ms)
+2012-03-12 11:54:58,371 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterTasks start took 16ms
+2012-03-12 11:54:58,379 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterTreeControllers start took 6ms
+2012-03-12 11:54:58,389 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterPropertyEditors start took 7ms
+2012-03-12 11:54:58,394 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterParameterEditors start took 4ms
+2012-03-12 11:54:58,405 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterEditorControllers start took 7ms
+2012-03-12 11:54:58,415 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterMenuItems start took 8ms
+2012-03-12 11:54:58,421 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterSurfaceControllers start took 4ms
+2012-03-12 11:54:58,426 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterDashboardFilters start took 3ms
+2012-03-12 11:54:58,428 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterDashboardMatchRules start took 1ms
+2012-03-12 11:54:58,435 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterPermissions start took 5ms
+2012-03-12 11:54:58,441 [5] INFO  Umbraco.Cms.Web.DependencyManagement.UmbracoComponentRegistrar [(null)] - RegisterMacroEngines start took 4ms
+2012-03-12 11:54:58,442 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - Start AddDependencyDemandBuilder ModelMappingsDemandBuilder
+2012-03-12 11:54:58,447 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 4ms)
+2012-03-12 11:54:58,453 [5] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ReloadTexts
+2012-03-12 11:54:58,463 [5] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ReloadTexts (took 9ms)
+2012-03-12 11:54:58,466 [5] INFO  Umbraco.Cms.Web.UmbracoWebApplication [(null)] - Container building is complete
+2012-03-12 11:54:58,466 [5] INFO  Umbraco.Framework.DependencyManagement.AbstractContainerBuilder [(null)] - End AddDependencyDemandBuilder (took 500ms)
+2012-03-12 11:54:58,547 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Booting CmsBootstrapper
+2012-03-12 11:55:00,402 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Booting RenderBootstrapper
+2012-03-12 11:55:00,415 [5] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - Executing Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder
+2012-03-12 11:55:00,417 [5] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - Building configuration tasks
+2012-03-12 11:55:00,431 [5] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - Found post-package-install config task of type DisplayUITask for package, registering it as systeminfo-post-package-install
+2012-03-12 11:55:00,432 [5] INFO  Umbraco.Cms.Web.Tasks.ConfigurationTaskBuilder [(null)] - End building configuration tasks (took 14ms)
+2012-03-12 11:55:00,804 [5] INFO  Umbraco.Cms.Web.System.Boot.BootManager [(null)] - Application start took 3698ms
+2012-03-12 11:55:01,153 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:01,155 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:55:01,155 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 2ms)
+2012-03-12 11:55:01,169 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:55:02,084 [24] INFO  Umbraco.Cms.Web.Routing.DefaultRoutingEngine [(null)] - Resolving entity by Non-Domain URL
+2012-03-12 11:55:02,815 [24] INFO  Umbraco.Cms.Web.Routing.DefaultRoutingEngine [(null)] - FindEntityByUrl for URL http://localhost:50094/ took 1641ms
+2012-03-12 11:55:03,816 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 2646ms)
+2012-03-12 11:55:03,819 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:03,820 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:03,903 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:03,904 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:04,343 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:04,344 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:04,345 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:04,346 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:05,414 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:05,416 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:05,417 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:05,418 [24] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:05,651 [24] WARN  NHibernate.Engine.StatefulPersistenceContext.ProxyWarnLog [(null)] - Narrowing proxy to Umbraco.Framework.Persistence.RdbmsModel.AttributeSchemaDefinition - this operation breaks ==
+2012-03-12 11:55:06,709 [24] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:55:06,729 [24] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:55:06,730 [24] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:55:07,475 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:07,476 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:55:07,477 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:07,477 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:55:07,537 [7] INFO  Umbraco.Cms.Web.Routing.DefaultRoutingEngine [(null)] - Resolving entity by Non-Domain URL
+2012-03-12 11:55:08,142 [7] INFO  Umbraco.Cms.Web.Routing.DefaultRoutingEngine [(null)] - FindEntityByUrl for URL http://localhost:50094/contact took 663ms
+2012-03-12 11:55:08,152 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 673ms)
+2012-03-12 11:55:08,153 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:08,153 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:08,161 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:08,162 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:08,164 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:08,165 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:08,165 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:08,166 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:08,705 [7] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ReloadTexts
+2012-03-12 11:55:08,710 [7] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ReloadTexts (took 3ms)
+2012-03-12 11:55:08,894 [7] INFO  Umbraco.Framework.Localization.TextManager [(null)] - Start ReloadTexts
+2012-03-12 11:55:08,896 [7] INFO  Umbraco.Framework.Localization.TextManager [(null)] - End ReloadTexts (took 0ms)
+2012-03-12 11:55:09,070 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:09,071 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:09,072 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:55:09,073 [7] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:55:09,252 [7] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:55:09,256 [7] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:55:09,257 [7] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:56:10,384 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:10,384 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:56:10,384 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:56:10,384 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:56:10,421 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 36ms)
+2012-03-12 11:56:10,422 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:10,422 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:56:10,429 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:10,430 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:56:10,433 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:10,434 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:56:10,434 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:10,435 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:56:11,012 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:11,013 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:56:11,014 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:11,015 [23] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:56:11,178 [23] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:56:11,181 [23] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:56:11,183 [23] INFO  Umbraco.Cms.Web.Mvc.Controllers.UmbracoController [(null)] - Controller being disposed, calling scope cleanup: True
+2012-03-12 11:56:15,898 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:15,900 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - IUmbracoRenderModel requires creation
+2012-03-12 11:56:15,901 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:56:15,901 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin ResolveItem
+2012-03-12 11:56:15,940 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End ResolveItem (took 38ms)
+2012-03-12 11:56:15,941 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:15,941 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:56:15,948 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:15,948 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:56:15,951 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:15,952 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:56:15,952 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:15,953 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:56:15,954 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - Begin find/create context
+2012-03-12 11:56:15,955 [17] INFO  Umbraco.Cms.Web.Context.DefaultRenderModelFactory [(null)] - End find/create (took 0ms)
+2012-03-12 11:54:55,131 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:55,131 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 11:54:55,132 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e\Umbraco.Cms.Packages.SystemInfo.dll is locked, attempting to rename
+2012-03-12 11:54:55,144 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 11:54:55,150 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 221ms)
+2012-03-12 12:10:09,638 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 12:10:09,668 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 12:10:09,668 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 12:10:09,678 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:10:09,798 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:10:09,798 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:10:09,798 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:10:09,798 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:10:09,848 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:10:09,848 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:10:09,858 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:10:09,868 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:10:09,878 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:10:09,878 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:10:09,898 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:10:09,898 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:10:09,928 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:10:09,928 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:10:09,968 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:10:09,968 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:10:09,969 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:10:09,969 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 320ms)
+2012-03-12 12:14:45,553 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-12 12:14:45,575 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-12 12:14:45,580 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-12 12:14:45,581 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:14:45,600 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:14:45,601 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:14:45,604 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:14:45,604 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:14:45,626 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:14:45,626 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:14:45,636 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:14:45,637 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:14:45,649 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:14:45,650 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:14:45,662 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Examine, Version=2.10.0.292, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:14:45,663 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Lucene.Net.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:14:45,686 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Lucene.Net, Version=2.9.2.2, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:14:45,687 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\Examine\lib\Umbraco.Framework.Persistence.Examine.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:14:45,703 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Framework.Persistence.Examine, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:14:45,703 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - E:\3fa4128e3b304b75b56af47f1ff5219e\Umbraco5-Smallsite\Website\App_Plugins\Packages\SystemInfo\lib\Umbraco.Cms.Packages.SystemInfo.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\680d7853\1bf5e05e
+2012-03-12 12:14:45,714 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Packages.SystemInfo, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-12 12:14:45,715 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 150ms)

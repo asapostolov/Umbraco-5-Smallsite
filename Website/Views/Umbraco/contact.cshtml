@@ -6,4 +6,70 @@
     Layout = "Page.cshtml";
 }
 
+@section Head
+{
+<script type="text/javascript" src="Scripts/jQuery/jquery.js"></script>
+    @if(!String.IsNullOrEmpty(DynamicModel.GoogleMapsKey))
+    {
+        <script src="http://maps.googleapis.com/maps/api/js?key=@DynamicModel.GoogleMapsKey&sensor=true" type="text/javascript"></script>
+
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+    
+                var myOptions = {
+                  zoom: 16,
+                  center: new google.maps.LatLng(@DynamicModel.Latitude, @DynamicModel.Longitude),
+                  mapTypeId: google.maps.MapTypeId.ROADMAP
+                };
+
+                var map = new google.maps.Map(document.getElementById('map'),
+                    myOptions);
+
+                var marker = new google.maps.Marker({
+                  position: map.getCenter(),
+                  map: map,
+                  title: 'Click to zoom'
+                });
+
+                google.maps.event.addListener(map, 'center_changed', function() {
+                  // 3 seconds after the center of the map has changed, pan back to the
+                  // marker.
+                  window.setTimeout(function() {
+                    map.panTo(marker.getPosition());
+                  }, 3000);
+                });
+
+                google.maps.event.addListener(marker, 'click', function() {
+                  map.setZoom(8);
+                  map.setCenter(marker.getPosition());
+                });
+            });
+        </script>
+    }
+}
+
+
+<section class="five columns alpha">
 @Umbraco.RenderMacro("ContactForm")
+</section>
+
+<section class="eleven columns omega">
+<div class="five columns alpha">
+<h5>Company Name </h5>
+@DynamicModel.CompanyName
+<h5>Address:</h5>
+@DynamicModel.CompanyAddress
+<h5>Phone</h5>
+@DynamicModel.Phone
+<h5>Email</h5>
+<a href="@DynamicModel.EmailAddress">@DynamicModel.EmailAddress</a> 
+</div>
+
+<div class="six columns omega">
+<div id="map" style="width:320px; height: 300px;">
+
+</div>
+</div>
+
+</section>
