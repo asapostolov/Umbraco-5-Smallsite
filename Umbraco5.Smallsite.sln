@@ -9,9 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{609D50
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "localhost", "http://localhost:58299", "{7C8581EC-BB7E-4B66-9FF4-EC45DDED11AD}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Website", "Website\", "{1294B445-CCD2-4414-992A-B49B0B8EF9F5}"
 	ProjectSection(WebsiteProperties) = preProject
-		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/Website"
 		Debug.AspNetCompiler.PhysicalPath = "Website\"
@@ -27,7 +26,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "localhost", "http://localho
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "Website\"
+		VWDPort = "52573"
 	EndProjectSection
 EndProject
 Global
@@ -40,10 +39,10 @@ Global
 		{B29FC3A6-D39F-4639-ABBB-31762CC47F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B29FC3A6-D39F-4639-ABBB-31762CC47F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B29FC3A6-D39F-4639-ABBB-31762CC47F83}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7C8581EC-BB7E-4B66-9FF4-EC45DDED11AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C8581EC-BB7E-4B66-9FF4-EC45DDED11AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C8581EC-BB7E-4B66-9FF4-EC45DDED11AD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C8581EC-BB7E-4B66-9FF4-EC45DDED11AD}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{1294B445-CCD2-4414-992A-B49B0B8EF9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1294B445-CCD2-4414-992A-B49B0B8EF9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1294B445-CCD2-4414-992A-B49B0B8EF9F5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1294B445-CCD2-4414-992A-B49B0B8EF9F5}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

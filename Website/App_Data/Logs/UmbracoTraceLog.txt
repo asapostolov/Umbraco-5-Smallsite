@@ -3687,3 +3687,17 @@
 2012-03-17 11:39:42,797 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Git\Umbraco-5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\85c0e558\f5a677d8
 2012-03-17 11:39:42,808 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
 2012-03-17 11:39:42,810 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 107ms)
+2012-03-17 13:36:09,391 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Start Initialise
+2012-03-17 13:36:09,421 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Creating shadow copy folder and querying for dlls
+2012-03-17 13:36:09,426 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Shadow copying assemblies
+2012-03-17 13:36:09,428 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Git\Umbraco-5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Editors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\8a68ce35\f72ba987
+2012-03-17 13:36:09,437 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Editors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-17 13:36:09,438 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Git\Umbraco-5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.CMS.Web.ParameterEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\8a68ce35\f72ba987
+2012-03-17 13:36:09,442 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.CMS.Web.ParameterEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-17 13:36:09,443 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Git\Umbraco-5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.PropertyEditors.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\8a68ce35\f72ba987
+2012-03-17 13:36:09,451 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.PropertyEditors, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-17 13:36:09,451 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Git\Umbraco-5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Tasks.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\8a68ce35\f72ba987
+2012-03-17 13:36:09,455 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Tasks, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-17 13:36:09,456 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - C:\Git\Umbraco-5-Smallsite\Website\App_Plugins\Core\lib\Umbraco.Cms.Web.Trees.dll to C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\website\8a68ce35\f72ba987
+2012-03-17 13:36:09,461 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - Adding to BuildManager: 'Umbraco.Cms.Web.Trees, Version=5.0.310.16, Culture=neutral, PublicKeyToken=null'
+2012-03-17 13:36:09,462 [VsCBMThreadPool] INFO  Umbraco.Cms.Web.System.PluginManager [(null)] - End Initialise (took 51ms)
