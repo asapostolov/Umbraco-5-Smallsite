@@ -1,0 +1,19 @@
+@inherits PartialViewMacroPage
+@using Umbraco.Cms.Web
+@using Umbraco.Cms.Web.Macros
+@using Umbraco.Framework
+
+@{
+    var suffix = Model.MacroParameters.Suffix;
+    var product = Umbraco.GetDynamicContentById(Model.MacroParameters.Model);
+}
+
+<div class="four columns @suffix">
+    <a href="@product.Url">
+    
+    <img alt="@product.Name" width="150px" height="150px" src="@Umbraco.GetMediaUrl(product.MainPicture)" />
+    <br />
+    <h6>@product.Name</h6>
+    </a>
+        
+</div>

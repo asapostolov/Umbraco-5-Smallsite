@@ -4,12 +4,7 @@
 <nav>
     <ul>
         @{
-            var homePage = DynamicModel;
-
-            while (homePage.ContentType.Alias != "home")
-            {
-                homePage = DynamicModel.Parent;
-            }   
+            var homePage = @Html.GetNodeWithName((object)DynamicModel, "home");
         }
         
         <li>

@@ -1,0 +1,1 @@
+<macro alias="showProduct" name="showProduct" cacheByPage="true" cachePeriodSeconds="0" cachePersonalized="false" macroType="PartialView" renderContentInEditor="true" selectedItem="showProduct" useInEditor="true" />

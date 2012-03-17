@@ -1,0 +1,32 @@
+@inherits RenderViewPage
+@using System.Web.Mvc.Html;
+@using Umbraco.Cms.Web;
+@{
+	Layout = "Page.cshtml";
+}
+<section class="four columns alpha">
+
+@Html.Partial("categoryList")
+
+</section>
+
+<section class="twelve columns omega">
+@{
+    var itemsInARow = 0;
+    foreach (var product in DynamicModel.Descendants)
+    {
+        var suffix = itemsInARow==0?"alpha":"omega";
+        
+        if (product.ContentType.Alias == "product")
+        {
+            @Umbraco.RenderMacro("ShowProduct", new { Model = product.Id.Value.Value.ToString(), Suffix = suffix })
+            
+            
+            itemsInARow = itemsInARow >= 2 ? 0 : itemsInARow + 1;
+                
+        }
+    }
+
+}
+
+</section>

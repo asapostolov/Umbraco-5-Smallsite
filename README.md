@@ -14,10 +14,11 @@ The current State is:
 * Home page with some Html displayed 
 * Custom Contact Page with 'company info' and Input form made with with a SurfaceController
 * GoogleMaps integration for the Contact Page
+* Category and Product Document types with Templates with basic styling
 
 What's next?
 -------------
-* Categories and Products structures with corresponding pages.
+* Better styling of Category and Product pages
 * Facebook, Twitter, G+, Pinterest integrations for the Products
 
 
