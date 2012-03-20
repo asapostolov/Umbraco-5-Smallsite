@@ -15,6 +15,7 @@ The current State is:
 * Custom Contact Page with 'company info' and Input form made with with a SurfaceController
 * GoogleMaps integration for the Contact Page
 * Category and Product Document types with Templates with basic styling
+* Using [ImageResizer](http://imageresizing.net) for easier work with Product's images
 
 What's next?
 -------------

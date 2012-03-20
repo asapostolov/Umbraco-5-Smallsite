@@ -11,7 +11,7 @@
 <div class="four columns @suffix">
     <a href="@product.Url">
     
-    <img alt="@product.Name" width="150px" height="150px" src="@Umbraco.GetMediaUrl(product.MainPicture)" />
+    <img alt="@product.Name"  src="@Umbraco.GetMediaUrl(product.MainPicture)?maxwidth=200&maxheight=200" />
     <br />
     <h6>@product.Name</h6>
     </a>
