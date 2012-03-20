@@ -59,7 +59,7 @@ h1 a
     text-align:center;
 }
 
-.productListItem a img
+.centered
 {
     display:block;
     margin: 0 auto;
@@ -75,6 +75,13 @@ h1 a
 {
     float:left;
     margin: 5px 8px;
+}
+
+.box
+{
+    border: 1px solid Grey;
+    padding:2px 5px;
+    margin: 5px 0;
 }
 
 

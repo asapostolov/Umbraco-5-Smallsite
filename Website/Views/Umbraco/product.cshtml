@@ -7,3 +7,24 @@
 
 
 @Html.Partial("secondaryNavigation")
+
+<section class="twelve columns">
+<div class="eight columns alpha">
+<img alt="@DynamicModel.Name"  src="@Umbraco.GetMediaUrl(DynamicModel.MainPicture)?maxwidth=350&maxheight=350"  class="centered" />
+</div>
+<div class="four columns omega">
+
+<h3>@DynamicModel.Name</h3>
+<br />
+<p>@DynamicModel.Description</p>
+
+</div>
+<div class="twelve columns">
+<br />
+<br />
+<hr />
+
+Facebook|Twitter|Pinterest|G+
+
+</div>
+</section>
