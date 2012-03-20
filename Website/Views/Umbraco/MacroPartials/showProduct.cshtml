@@ -8,10 +8,10 @@
     var product = Umbraco.GetDynamicContentById(Model.MacroParameters.Model);
 }
 
-<div class="four columns @suffix">
+<div class="four columns @suffix productListItem">
     <a href="@product.Url">
     
-    <img alt="@product.Name"  src="@Umbraco.GetMediaUrl(product.MainPicture)?maxwidth=200&maxheight=200" />
+    <img alt="@product.Name"  src="@Umbraco.GetMediaUrl(product.MainPicture)?maxwidth=170&maxheight=170" />
     <br />
     <h6>@product.Name</h6>
     </a>

@@ -3,14 +3,14 @@ header
   
 }
 
-nav
+header nav
 {
     margin: 25px 0;
     
 	
 }
 
-nav ul
+header nav ul
 {
     list-style: none;
     width:auto;
@@ -18,7 +18,7 @@ nav ul
     padding-left: 0;
 }
 
-nav ul li
+header nav ul li
 {
     
     display:inline;
@@ -27,7 +27,7 @@ nav ul li
     padding: 10px 8px;
 }
 
-nav ul li a
+header nav ul li a
 {
     font-size:14pt;
     color:Black;
@@ -35,7 +35,7 @@ nav ul li a
     
 }
 
-nav ul li a:hover
+header nav ul li a:hover
 {
     font-size:14pt;
     color:Grey;
@@ -52,3 +52,42 @@ h1 a
 {
     text-decoration:none;
 }
+
+.productListItem
+{
+    margin:0 0 15px 0;
+    text-align:center;
+}
+
+.productListItem a img
+{
+    display:block;
+    margin: 0 auto;
+}
+
+.smallScreenNav ul
+{
+    display:none;
+    
+}
+
+.smallScreenNav ul li
+{
+    float:left;
+    margin: 5px 8px;
+}
+
+
+ @media only screen and (max-width: 767px) 
+ {
+     .navigation ul
+     {
+         display:none;
+     }
+     
+     .smallScreenNav ul
+     {
+         display:inline-block;
+         margin-bottom:15px;
+     }
+ }

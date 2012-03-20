@@ -1,0 +1,22 @@
+@inherits RenderViewPage
+@using Umbraco.Cms.Web;
+
+
+
+@{
+    var portfolio = Html.GetNodeWithName((object)DynamicModel, "portfolio");
+
+    <ul>
+    @foreach (var category in portfolio.Children)
+    {
+        if (category.ContentType.Alias == "category")
+        { 
+            <li>
+                <a href="@category.Url">@category.Name</a> 
+            </li>   
+        }
+    }
+    </ul>
+    
+}
+
