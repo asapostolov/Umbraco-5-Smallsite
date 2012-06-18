@@ -1,4 +1,4 @@
-### As the development of Umbraco 5 has [stopped](http://umbraco.com/follow-us/blog-archive/2012/6/13/v5-rip.aspx) I do not recommend to anyone to use this reposotory 
+### NOTE: As the development of Umbraco 5 has [stopped](http://umbraco.com/follow-us/blog-archive/2012/6/13/v5-rip.aspx) I do not recommend to anyone to use this reposotory 
 
 
 Umbraco 5 - Smallsite
